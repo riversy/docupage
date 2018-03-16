@@ -1,0 +1,13 @@
+{
+    "name": "riversy/docupage",
+    "description": "Document as a Page is a plugin for Pimcore CMS",
+    "type": "pimcore-plugin",
+    "license": "GPL v3.0",
+    "authors": [
+        {
+            "name": "Igor Goltsov",
+            "email": "riversy@gmail.com"
+        }
+    ],
+    "require": {}
+}
